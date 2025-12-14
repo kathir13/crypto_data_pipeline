@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Airflow
+logs/
+airflow/logs/
+
+# Env files
+.env
+.env.*
+
+# OS / editor junk
+*.save
+*.csv
